@@ -25,7 +25,7 @@
   ],
   "mcp_server": {
     "transport": "streamable-http",
-    "url": "https://your-mcp-url.example.com/mcp"
+"url": "https://wangjucai-liangpi-246135-8-1421953131.sh.run.tcloudbase.com"
   },
   "tools": [
     {
