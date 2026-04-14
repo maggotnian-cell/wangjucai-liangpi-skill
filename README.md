@@ -111,7 +111,7 @@ MCP_HOST=0.0.0.0 python mcp_server.py
 5. 部署完成后拿到公网域名
 6. 把真实公网地址写回 `skill.json` 的 `mcp_server.url`
 
-详细步骤请看 [DEPLOY_CLOUDBASE.md](/Users/nian/Desktop/wangjucai-liangpi/DEPLOY_CLOUDBASE.md:1)。
+详细步骤请看 [DEPLOY_CLOUDBASE.md](./DEPLOY_CLOUDBASE.md)。
 
 ## MCP 接入配置
 
@@ -120,7 +120,7 @@ MCP_HOST=0.0.0.0 python mcp_server.py
   "mcpServers": {
     "wangjucai-liangpi": {
       "type": "streamable-http",
-      "url": "https://your-mcp-url.example.com/mcp"
+      "url": "https://wangjucai-liangpi-246135-8-1421953131.sh.run.tcloudbase.com"
     }
   }
 }
@@ -145,7 +145,7 @@ wangjucai-liangpi/
 
 ## 发布说明
 
-发布前请先查看 [PUBLISHING.md](/Users/nian/Desktop/wangjucai-liangpi/PUBLISHING.md:1)。
+发布前请先查看 [PUBLISHING.md](./PUBLISHING.md)。
 
 ## 关联项目
 
